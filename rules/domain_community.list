@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,x-minus.pro
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,apple-relay.apple.com
 
 # games
 DOMAIN-SUFFIX,anzu-us.com

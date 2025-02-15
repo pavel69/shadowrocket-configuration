@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,skladchina.biz
 DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,realguide.com
 DOMAIN-SUFFIX,x-minus.pro
+DOMAIN-SUFFIX,api2.support-kp.com
 
 # ai
 DOMAIN-SUFFIX,sora.com
@@ -27,7 +28,7 @@ DOMAIN-SUFFIX,clashofclans.inbox.supercell.com
 DOMAIN-SUFFIX,game.clashofclans.com
 DOMAIN-SUFFIX,game-assets.clashofclans.com
 
-# noton
+# notion
 DOMAIN-SUFFIX,notionusercontent.com
 
 # ip

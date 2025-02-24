@@ -1,4 +1,4 @@
-#special
+# special
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,4pda
 DOMAIN,spotify.com
@@ -15,10 +15,11 @@ DOMAIN-SUFFIX,x-minus.pro
 DOMAIN-SUFFIX,api2.support-kp.com
 
 # ai
-DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,elevenlabs.io
-DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,sora.com
 
 # games
 DOMAIN-SUFFIX,anzu-us.com
@@ -29,6 +30,7 @@ DOMAIN-SUFFIX,game.clashofclans.com
 DOMAIN-SUFFIX,game-assets.clashofclans.com
 
 # notion
+DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notionusercontent.com
 
 # ip

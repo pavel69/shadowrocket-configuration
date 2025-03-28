@@ -1,7 +1,7 @@
 # special
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,4pda
-DOMAIN-KEYWORD,tiktok
+DOMAIN,tiktok
 DOMAIN,spotify.com
 
 # other
@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com #gemini
 
 # games
 DOMAIN-SUFFIX,anzu-us.com

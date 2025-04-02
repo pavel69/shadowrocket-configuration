@@ -1,8 +1,8 @@
-# special
-DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,4pda
-DOMAIN,tiktok
-DOMAIN,spotify.com
+# NAME: domains_community.list
+# AUTHOR: misha-tgshv
+# REPO: https://github.com/misha-tgshv/shadowrocket-configuration-file
+# UPDATED: 2025-04-02 01:52:33 MSK
+# SOURCE: https://github.com/misha-tgshv/shadowrocket-configuration-file/blob/main/community.list
 
 # other
 DOMAIN-SUFFIX,aol.com
@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com #gemini
+DOMAIN-KEYWORD,proactivebackend-pa.googleapis.com #gemini
 
 # games
 DOMAIN-SUFFIX,anzu-us.com

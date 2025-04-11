@@ -1,4 +1,4 @@
-# Количество доменов: 427
+# Количество доменов: 430
 DOMAIN-SUFFIX,10minutemail.com
 DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,4pda.to
@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,account-api.protonmail.com
 DOMAIN-SUFFIX,account.jetbrains.com
 DOMAIN-SUFFIX,account.protonmail.com
 DOMAIN-SUFFIX,accounts.spotify.com
+DOMAIN-SUFFIX,accounts.supercell.com
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,afcs.dellcdn.com
 DOMAIN-SUFFIX,aftermarket.schaeffler.com
@@ -234,6 +235,7 @@ DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,novayagazeta.eu
 DOMAIN-SUFFIX,novayagazeta.ru
 DOMAIN-SUFFIX,ntc.party
+DOMAIN-SUFFIX,nxp.com
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,nyaa.tracker.wf
 DOMAIN-SUFFIX,oaistatic.com
@@ -324,6 +326,7 @@ DOMAIN-SUFFIX,static.cdninstagram.com
 DOMAIN-SUFFIX,static.files.bbci.co.uk
 DOMAIN-SUFFIX,static.rutracker.cc
 DOMAIN-SUFFIX,status.discordapp.com
+DOMAIN-SUFFIX,store.supercell.com
 DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,stulchik.net
 DOMAIN-SUFFIX,support.cambiumnetworks.com

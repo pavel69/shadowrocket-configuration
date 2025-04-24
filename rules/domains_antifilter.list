@@ -1,4 +1,4 @@
-# Количество доменов: 430
+# Количество доменов: 435
 DOMAIN-SUFFIX,10minutemail.com
 DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,4pda.to
@@ -83,11 +83,13 @@ DOMAIN-SUFFIX,cloud.mongodb.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,colta.ru
 DOMAIN-SUFFIX,community.cisco.com
+DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
 DOMAIN-SUFFIX,crunchyroll.com
 DOMAIN-SUFFIX,cub.red
 DOMAIN-SUFFIX,czx.to
 DOMAIN-SUFFIX,d.docs.live.net
+DOMAIN-SUFFIX,data-cdn.mbamupdates.com
 DOMAIN-SUFFIX,database.clamav.net
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dell.com
@@ -108,6 +110,7 @@ DOMAIN-SUFFIX,docs.redis.com
 DOMAIN-SUFFIX,documentation.meraki.com
 DOMAIN-SUFFIX,download.jetbrains.com
 DOMAIN-SUFFIX,download.lenovo.com
+DOMAIN-SUFFIX,download.qt.io
 DOMAIN-SUFFIX,download.screamingfrog.co.uk
 DOMAIN-SUFFIX,download.wetransfer.com
 DOMAIN-SUFFIX,doxajournal.ru
@@ -142,6 +145,7 @@ DOMAIN-SUFFIX,fw-update.ubnt.com
 DOMAIN-SUFFIX,gallery.zetalliance.org
 DOMAIN-SUFFIX,game.brawlstarsgame.com
 DOMAIN-SUFFIX,gateway.discord.gg
+DOMAIN-SUFFIX,geekyfuroshiki.com
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,gitlab.io
@@ -318,6 +322,7 @@ DOMAIN-SUFFIX,snapmagic.com
 DOMAIN-SUFFIX,soapui.org
 DOMAIN-SUFFIX,sobesednik.ru
 DOMAIN-SUFFIX,software.cisco.com
+DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,st.kinovod.net

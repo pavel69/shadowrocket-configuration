@@ -1,7 +1,7 @@
 # NAME: domains_community.list
 # AUTHOR: misha-tgshv
 # REPO: https://github.com/misha-tgshv/shadowrocket-configuration-file
-# UPDATED: 2025-04-11 01:52:33 MSK
+# UPDATED: 2025-04-24 01:55:05 MSK
 # SOURCE: https://github.com/misha-tgshv/shadowrocket-configuration-file/blob/main/community.list
 
 # other
@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,sora.com
 DOMAIN-KEYWORD,proactivebackend-pa.googleapis.com #gemini
 

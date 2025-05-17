@@ -1,7 +1,7 @@
 # NAME: domains_community.list
 # AUTHOR: misha-tgshv
 # REPO: https://github.com/misha-tgshv/shadowrocket-configuration-file
-# UPDATED: 2025-05-05 02:00:50 MSK
+# UPDATED: 2025-05-17 01:55:45 MSK
 # SOURCE: https://github.com/misha-tgshv/shadowrocket-configuration-file/blob/main/community.list
 
 # other
@@ -53,8 +53,8 @@ DOMAIN-SUFFIX,tableauusercontent.com
 DOMAIN-SUFFIX,user.auth.xboxlive.com
 DOMAIN-SUFFIX,xsts.auth.xboxlive.com
 
-# jetbrans
-DOMAIN-SUFFIX,jetbrans.com
+# jetbrains
+DOMAIN-SUFFIX,jetbrains.com
 
 # ukrainian 
 DOMAIN-SUFFIX,semrush.com

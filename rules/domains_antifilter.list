@@ -1,4 +1,4 @@
-# Количество доменов: 441
+# Количество доменов: 446
 DOMAIN-SUFFIX,10minutemail.com
 DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,4pda.to
@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,apt.releases.hashicorp.com
 DOMAIN-SUFFIX,aqicn.org
 DOMAIN-SUFFIX,arc.intel.com
+DOMAIN-SUFFIX,arm.com
 DOMAIN-SUFFIX,artifacts.elastic.co
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,auth.grazie.ai
@@ -162,6 +163,7 @@ DOMAIN-SUFFIX,gulagu.net
 DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,hd.zetfix.online
 DOMAIN-SUFFIX,hdkinoteatr.com
+DOMAIN-SUFFIX,hdrezka.fm
 DOMAIN-SUFFIX,helm.releases.hashicorp.com
 DOMAIN-SUFFIX,holod.global.ssl.fastly.net
 DOMAIN-SUFFIX,holod.media
@@ -266,6 +268,8 @@ DOMAIN-SUFFIX,pb.wtf
 DOMAIN-SUFFIX,pbs.twimg.com
 DOMAIN-SUFFIX,pcbway.com
 DOMAIN-SUFFIX,pcbway.ru
+DOMAIN-SUFFIX,pepperl-fuchs.com
+DOMAIN-SUFFIX,phoenixcontact.com
 DOMAIN-SUFFIX,php.su
 DOMAIN-SUFFIX,piccy.info
 DOMAIN-SUFFIX,pixabay.com
@@ -293,6 +297,7 @@ DOMAIN-SUFFIX,releases.hashicorp.com
 DOMAIN-SUFFIX,repo.mongodb.org
 DOMAIN-SUFFIX,republic.ru
 DOMAIN-SUFFIX,resp.app
+DOMAIN-SUFFIX,rezka.ag
 DOMAIN-SUFFIX,ridl.io
 DOMAIN-SUFFIX,rpm.grafana.com
 DOMAIN-SUFFIX,ru.bellingcat.com

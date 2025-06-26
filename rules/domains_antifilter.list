@@ -1,4 +1,4 @@
-# Количество доменов: 447
+# Количество доменов: 450
 DOMAIN-SUFFIX,10minutemail.com
 DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,4pda.to
@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bestchange.ru
 DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,bitcoin.org
 DOMAIN-SUFFIX,bitru.org
@@ -92,6 +93,7 @@ DOMAIN-SUFFIX,czx.to
 DOMAIN-SUFFIX,d.docs.live.net
 DOMAIN-SUFFIX,data-cdn.mbamupdates.com
 DOMAIN-SUFFIX,database.clamav.net
+DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dell.com
 DOMAIN-SUFFIX,deviantart.com
@@ -148,6 +150,7 @@ DOMAIN-SUFFIX,gallery.zetalliance.org
 DOMAIN-SUFFIX,game.brawlstarsgame.com
 DOMAIN-SUFFIX,gateway.discord.gg
 DOMAIN-SUFFIX,geekyfuroshiki.com
+DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,gitlab.io

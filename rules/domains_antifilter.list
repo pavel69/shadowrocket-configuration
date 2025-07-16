@@ -1,4 +1,4 @@
-# Количество доменов: 450
+# Количество доменов: 452
 DOMAIN-SUFFIX,10minutemail.com
 DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,4pda.to
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,alberta.ca
 DOMAIN-SUFFIX,amnezia.org
 DOMAIN-SUFFIX,anilibria.tv
 DOMAIN-SUFFIX,animestars.org
+DOMAIN-SUFFIX,ansys.com
 DOMAIN-SUFFIX,antizapret.prostovpn.org
 DOMAIN-SUFFIX,api.app.prod.grazie.aws.intellij.net
 DOMAIN-SUFFIX,api.github.com
@@ -125,6 +126,7 @@ DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,ehorussia.com
 DOMAIN-SUFFIX,ej.ru
 DOMAIN-SUFFIX,envato.com
+DOMAIN-SUFFIX,epg.one
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,eu-iot-prod.aws.tcljd.com
 DOMAIN-SUFFIX,euronews.com

@@ -22,3 +22,11 @@ DOMAIN-SUFFIX,bosch-home.com
 DOMAIN-SUFFIX,singlekey-id.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,asana.com
+
+USER-AGENT,Podcasts*
+DOMAIN-SUFFIX,tritondigital.com
+DOMAIN-SUFFIX,blubrry.com
+DOMAIN-SUFFIX,simplecastaudio.com
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,podtrac.com
+DOMAIN-SUFFIX,acast.com

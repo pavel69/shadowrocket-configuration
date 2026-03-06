@@ -33,3 +33,12 @@ DOMAIN-SUFFIX,simplecastaudio.com
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,podtrac.com
 DOMAIN-SUFFIX,acast.com
+
+DOMAIN-SUFFIX,prfx.byspotify.com
+DOMAIN-SUFFIX,pscrb.fm
+DOMAIN-SUFFIX,pfx.vpixl.com
+DOMAIN-SUFFIX,pdst.fm
+DOMAIN-SUFFIX,substackcdn.com
+DOMAIN-SUFFIX,substack.com
+
+# mzstatic.com
